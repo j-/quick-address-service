@@ -6,6 +6,16 @@ Quick Address Service
 * Adds CORS headers to response
 * Fetches and refreshes JWT
 
+Getting started
+---------------
+
+```
+$ git clone https://github.service.anz/hoeksj/quick-address-service/
+$ cd quick-address-service
+$ npm install
+$ npm start
+```
+
 Configuration
 -------------
 
